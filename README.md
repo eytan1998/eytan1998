@@ -1,7 +1,7 @@
 # Hi, I'm Eitan Ankri 👋
 
 🎓 **About Me**  
-I'm a Computer Science with a passion for problem-solving, algorithms, and innovative technologies. I have made the Dean's List twice, and I continuously strive to enhance my skills by working on real-world applications. 
+I'm a Computer Science with a passion for problem-solving, algorithms, and innovative technologies. I have made the Dean's List twice, and I continuously strive to enhance my skills by working on real projects.
 
 📱 **Play Store Apps**  
 I’ve published several apps on the Google Play Store, reflecting my strong interest in mobile development. My apps are designed with user experience and functionality in mind.
@@ -12,15 +12,16 @@ I’m actively engaged in research on iterative allocation mechanisms, particula
 
 🌐 **Projects and Technologies**  
 I enjoy working with a variety of technologies, including:
-- Python, Java, and JavaScript
+- Python, Java, TypeScript, JavaScript, and C#
+- React, Expo, and Blazor
 - Graph theory and algorithms (NetworkX)
 - Scipy for solving linear problems
 - GitHub for managing projects
 
 🔧 **Skills**  
-- **Languages**: Python, Java, JavaScript, HTML, CSS, ...
-- **Frameworks/Tools**:  Numpy, Scipy, NetworkX
-- **Databases**: MySQL, FireBase, ...
+- **Languages**: Python, Java, TypeScript, JavaScript, HTML, CSS, C#
+- **Frameworks/Tools**: React, Expo, Blazor, Numpy, Scipy, NetworkX
+- **Databases**: MySQL, Firebase
 - **Version Control**: Git, GitHub
 - **Research**: Algorithm design, voting systems, resource allocation
 
@@ -30,3 +31,7 @@ My goal is to continue expanding my knowledge and apply my skills to solve chall
 📬 **Connect with Me**  
 - LinkedIn: [Eitan Ankri](https://www.linkedin.com/in/eitan-ankri-6865b9211/)
 - GitHub: [eytan1998](https://github.com/eytan1998)
+
+## Language and Tool Usage
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eytan1998&langs_count=10&theme=tokyonight)
+
