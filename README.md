@@ -32,6 +32,5 @@ My goal is to continue expanding my knowledge and apply my skills to solve chall
 - LinkedIn: [Eitan Ankri](https://www.linkedin.com/in/eitan-ankri-6865b9211/)
 - GitHub: [eytan1998](https://github.com/eytan1998)
 
-## Language and Tool Usage
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eytan1998&langs_count=10&theme=tokyonight)
 
